@@ -1,22 +1,62 @@
+@font-face{
+  font-family: 'WebSymbolsLigaRegular';
+  src: url('../fonts/websymbolsligaregular.eot');
+  src: url('../fonts/websymbolsligaregular.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/websymbolsligaregular.woff') format('woff'),
+  url('../fonts/websymbolsligaregular.ttf') format('truetype'),
+  url('../fonts/websymbolsligaregular.svg#WebSymbolsRegular') format('svg');
+}
+
+html, body {
+  height: 100%;
+  text-align: center;
+}
+
+.dead-center {
+  height: 100%;
+}
+
+.dead-center,
+.dead-center + * {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.logo {
+  font-family: 'Della Respira', serif;
+  font-size: 5em;
+  color: #111;
+}
+
+.links {
+  font-family: "WebSymbolsLigaRegular";
+  text-rendering: optimizeLegibility;
+  font-size: 2em;
+  position: absolute;
+  right: 0;
+  text-decoration: none;
+  margin-right: 1em;
+  margin-top: .3em;
+}
+
+@media only screen and (max-device-width: 480px) {
+  .links {
+    font-size: 4em;
+  }
+}
+
+.links a {
+  color: #444;
+  text-decoration: none;
+}
+
+.links a:visited {
+  color: #555;
+}
 
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.links a:hover {
+  color: #A53C05;
+}
 
 
