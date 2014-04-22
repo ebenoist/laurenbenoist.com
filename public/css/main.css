@@ -12,25 +12,39 @@ html, body {
   text-align: center;
 }
 
-.dead-center {
+.container {
+  margin-top: 10px;
+  display: table;
   height: 100%;
 }
 
-.dead-center,
-.dead-center + * {
-  display: inline-block;
-  vertical-align: middle;
+.center-row {
+  min-width: 960px;
+  display: table-cell;
+  height: 100%;
+  vertical-align:middle;
+}
+
+.logo .sub-title {
+  font-size: 2em;
 }
 
 .logo {
   font-family: 'Della Respira', serif;
-  font-size: 5em;
   color: #111;
 }
 
+.logo .name {
+  display: inline-block;
+  font-size: 5em;
+}
+
+.logo .title {
+  display: inline-block;
+  font-size: 2em;
+}
+
 .links {
-  font-family: "WebSymbolsLigaRegular";
-  text-rendering: optimizeLegibility;
   font-size: 2em;
   position: absolute;
   right: 0;
@@ -58,5 +72,3 @@ html, body {
 .links a:hover {
   color: #A53C05;
 }
-
-

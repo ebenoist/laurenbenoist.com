@@ -1,7 +1,7 @@
 require "json"
 
 use Rack::Static,
-  :urls => ["/images", "/js", "/css", "/fonts" ],
+  :urls => ["/images", "/js", "/css", "/fonts", "/files" ],
   :root => "public"
 
 run lambda { |env|
