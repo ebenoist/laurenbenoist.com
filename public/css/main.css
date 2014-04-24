@@ -50,9 +50,10 @@ html, body {
 }
 
 .icon-badge {
-  padding-top: 1.7em;
-  font-size: .3em;
-  font-weight: bold;
+  padding-top: 0.5em;
+  font-size: .5em;
+  font-weight: bolder;
+  font-family: 'Sansita One', 'cursive';
 }
 
 .link-icon {
