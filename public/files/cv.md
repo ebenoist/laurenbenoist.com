@@ -1,19 +1,21 @@
 Lauren N. Benoist, M.A., NCC, LPC
 --
 
-```
-Ph.D. Candidate Counselor Education
-College of Education
-Department of Educational Psychology, Counseling, & Special Education
-```
+#### Ph.D. Candidate Counselor Education
+<hr>
 
-```
-Pennsylvania State University
-225 CEDAR Building
-University Park, PA 16802
-[Lbenoist@psu.edu](mailto:lbenoist@psu.edu)
-(814) 863-2418
-```
+<small>
+  College of Education <br>
+  Department of Educational Psychology, Counseling, & Special Education
+</small>
+
+<address>
+  <strong>Pennsylvania State University</strong> <br>
+  225 CEDAR Building <br>
+  University Park, PA 16802 <br>
+  [Lbenoist@psu.edu](mailto:lbenoist@psu.edu) <br>
+  (814) 863-2418
+</address>
 
 ## Education
 
