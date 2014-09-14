@@ -53,6 +53,12 @@ html, body {
   right: 0;
 }
 
+#cv {
+  font-family: 'athelasregular';
+  margin: 15em;
+  text-align: left;
+}
+
 @media only screen and (max-device-width: 480px) {
   .links {
     font-size: 4em;
