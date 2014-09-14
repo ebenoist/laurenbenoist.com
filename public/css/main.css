@@ -16,23 +16,32 @@ html, body {
   vertical-align: middle;
 }
 
+#sub-title {
+  margin-top: 3em;
+  border-top: .2em dotted;
+  border-bottom: .2em dotted;
+}
+
 .logo .sub-title {
   font-size: 2em;
+  font-family: 'athelasregular';
 }
 
 .logo {
-  font-family: 'Della Respira', serif;
-  color: #111;
+  color: #444;
 }
 
 .logo .name {
-  display: inline-block;
+  font-family: 'athelasregular';
   font-size: 5em;
+  letter-spacing: 0.1em;
+  margin-bottom: -0.2em;
 }
 
 .logo .title {
-  display: inline-block;
+  font-family: 'AvenirBook';
   font-size: 2em;
+  letter-spacing: 0.1em;
 }
 
 .links {
