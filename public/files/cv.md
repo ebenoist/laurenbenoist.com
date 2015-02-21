@@ -31,21 +31,21 @@ Department of Counseling and Human Services (2013)
 Appalachian State University-Boone, North Carolina (2009)
 
 #### Research Areas
-multicultural counseling, LGBT issues, identity development, postmodern theories
+clinical training, multicultural counseling, intercultural conflict, counselor education, intersectionality, qualitative research
 
 ## Professional Graduate Work Experience
 
-#### CEDAR Clinic Supervisor: The Pennsylvania State University, Department of Educational Psychology, Counseling & Special Education (2013-Present)
+#### CEDAR Clinic Supervisor: The Pennsylvania State University, 2013-Present)
 Oversees operations of clinic, including: receptionist staff, incoming referrals, counselor documentation, and supervises all clinic training facilities. Responsible for training new staff and incoming counselors and supervisors.
 
-#### Program Recruitment and Retention Specialist: Roosevelt University, Department of Counseling & Human Services (2011-2012)
+#### Program Recruitment and Retention: Roosevelt University,  (2011-2012)
 Organized program information sessions, represented program at school fairs, acted as departmental liaison to interested applicants, developed and maintained manifest of regional feeder programs.
 
-#### Graduate Assistant to CACREP Renewal Process: Roosevelt University, Department of Counseling and Human Services (2010-2011)
+#### Assistant to CACREP Renewal Process: Roosevelt University (2010-2011)
 Assisted in updating faculty syllabi and mapping 2009 CACREP standards into program
 materials. Became well-versed in accreditation procedure and standard requirements.
 
-#### Research and Teaching Assistant: Department of Economics, Roosevelt University (2010-2011)
+#### Research and Teaching Assistant: Roosevelt University (2010-2011)
 Assisted Dr. Ozgur Oranghazi in research literature reviews, created digital archive of research, assisted in preparing tenure dossier, prepared classroom materials and graded assignments.
 
 
@@ -55,6 +55,12 @@ Assisted Dr. Ozgur Oranghazi in research literature reviews, created digital arc
 Upheld state standards for teaching, created lesson plans and student evaluations in preparation for grade school.
 
 ## Teaching Experience
+
+#### Clinical Mental Health in Schools and Communities
+
+Pennsylvania State University, Department of Educational Psychology, Counseling, and Special Education
+
+_Introduction course to clinical mental health counseling emphasis area_
 
 #### Elementary School Counseling Internship & Seminar (Guest Lecturer)
 
@@ -66,10 +72,6 @@ Pennsylvania State University, Department of Educational Psychology, Counseling,
 
 _Provided guest lecture on DSM-V as an assessment tool._
 
-#### Adolescent Counseling
-Pennsylvania State University, Department of Educational Psychology, Counseling, and Special Education
-
-_Experiential learning course on theoretical approaches to counseling adolescents. Facilitated collaborative work with acting students to provide mock counseling scenarios._
 
 #### Interventions to Youth Violence (Co-taught)
 Roosevelt University, Department of Social Justice
@@ -79,7 +81,13 @@ _Transformational service learning course-Facilitated mentorship experience for 
 
 ## Supervised Clinical Experience
 
-#### Doctoral Internship
+#### Doctoral Clinical Supervisor
+The Pennsylvania State University (2014-Present)
+
+_Provides master’s level practicum counselors with weekly individual clinical and administrative supervision for a caseload of 10 clients. Reviews session tapes and clinical documentation._
+
+
+#### Doctoral Clinical Internship
 The Cedar Clinic, The Pennsylvania State University, University Park, Pennsylvania (2014)
 
 _Provided individual and group counseling, facilitated outreach services for County Youth Services Bureau_
@@ -105,8 +113,14 @@ _Groups Facilitated:_
 - _ADHD/Behavioral group for 8-10 year olds_
 - _Adult Rehabilitation Day Program_
 
+## Manuscripts Currently Under Review
+Benoist, L. N. (2015). _A Critical Engagement: Mainstreaming Intersectionality in Multicultural Counseling._
+Submitted to: Journal of Multicultural Counseling and Development.
 
 ## Non-Refereed Publications
+
+Benoist, L. N. (2014). Blurred lines: Indigenous Canadians and Globalization of Counseling. _Chi Sigma Iota RAM
+Report._ Fall 2014.
 
 Benoist, L. N. (2012). Facts vs. Fears: Examining Counselor Attitudes Towards Utilizing Technology. _Counseling Today._ May 2012.
 
@@ -124,7 +138,6 @@ Canadian Counselling Association Annual Research Conference, Moncton, NB
 #### National
 
 Benoist, L. N. (2014). _Intersectionality: Models of Identity Development and Implications for Practice, Curriculum, and Instruction_ - Roundtable Discussion
-
 Association for Lesbian, Gay, Bisexual and Transgender Issues in Counseling National Conference, New Orleans, Louisiana
 
 Benoist, L. N. (2008). _Dare to Keep Punishment Just: Alternatives to Corrections for Drug Addicted Offenders_ – Poster Presentation American Correctional Association Annual Conference, New Orleans, LA
@@ -140,22 +153,35 @@ Illinois Counseling Association Annual Conference, Springfield, IL
 Benoist, L. N. (2012). _Queers of Color: Identity Development Models and Implications for Counselors_ – Poster Presentation
 Illinois Association for Lesbian, Gay, Bisexual, and Transgender Issues in Counseling, Inaugural Conference, Chicago, Illinois.
 
+Benoist, L. N. (2008). _Alternatives to Corrections for Drug Addicted Offenders._
+Breakout-Session- Appalachian State University Undergraduate Research Symposium. Boone, NC
+
+## Presentations Submissions Under Review
+Benoist, L. N. (2015). _Creating a Collaborative Counselor Education Training Clinic: The Real World Model._ Breakout session submitted to: Association for Counselor Education and Supervision Conference (ACES) 2015.
+
+Benoist, L. N. (2015). _A Primer On the Use of Intersectionality In Multicultural Counselor Education._
+Breakout session submitted to: Association for Counselor Education and Supervision Conference (ACES) 2015.
+
+Benoist, L. N. (2015). _Navigating Intercultural Conflict in Counsellor Education._
+Breakout session submitted to: International Association for Counselling. (IAC) 2015.
+
 ## Non-Refereed Presentations
 
 Benoist, L. N. (2013). Invited Speaker for Northside Literacy Coalition meeting: _Advocating and communicating with/for clients with disabilities._ Chicago, Illinois.
 
-Benoist, L. N. (2012). _Substance Dependence and Abuse Among the Elderly: Prevalence and current models of treatment_ – Poster Presentation
-Substance Abuse Conference, Roosevelt University, Chicago, Illinois
+Benoist, L. N. (2012). _Substance Dependence and Abuse Among the Elderly: Prevalence and current models of treatment_ – Poster Presentation at Roosevelt University, Chicago, Illinois
 
 ## Current Professional Memberships
 
+- American Counseling Association (ACA)
+- Internaional Association for Counselling (IAC)
 - Illinois Counseling Association (ICA)
 - Association for Lesbian, Gay, Bisexual, and Transgender issues in Counseling (IALGBTIC)
 - Chi Sigma Iota (CSI)
 
 ## Service to Profession
 
-- President/Founding member of Chi Sigma Iota – Rho Chi Alpha Chapter (2011-2012)
+- President/Founding member: Rho Chi Alpha Chapter of Chi Sigma Iota(2011-2012)
 - CACREP Renewal Assistant – (2011-2012)
 - Roosevelt Counseling Association Newsletter Editor – (2010-2012)
 - President of Roosevelt Counseling Association – (2010-2011)
@@ -167,7 +193,7 @@ Substance Abuse Conference, Roosevelt University, Chicago, Illinois
 
 ## Awards
 
-- 2013-2014 Graham Endowed Fellowship: $1400.
+- 2013-2014 Penn State Graham Endowed Fellowship.
 - 2012 American Counseling Association Foundation: Gerald and Marianne Corey Graduate Student Essay Scholarship. $150.
-- 2008 American Correctional Association: 1st Place National Poster Presentation Competition. $200.
+- 2008 American Correctional Association: 1st Place National Poster Presentation Competition.
 - 2008 Research at the Capitol meeting: Awarded with invitation to represent affiliated university for research: Alternatives to Corrections for Drug Addicted Offenders.
