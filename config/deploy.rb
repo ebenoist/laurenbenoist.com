@@ -12,6 +12,7 @@ set :scm,         "git"
 set :user,        Application.config["deploy_user"]
 set :deploy_via, :remote_cache
 set :normalize_asset_timestamps, false
+ssh_options[:forward_agent] = true
 
 set :default_environment, {
   'PATH' => "$HOME/.rbenv/shims:$HOME/.rbenv/bin:$PATH"
