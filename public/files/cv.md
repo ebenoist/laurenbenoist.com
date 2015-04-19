@@ -33,9 +33,12 @@ Appalachian State University-Boone, North Carolina (2009)
 #### Research Areas
 clinical training, multicultural counseling, intercultural conflict, counselor education, intersectionality, qualitative research
 
+#### Clinical Expertise
+interpersonal conflict, narrative and constructivist approaches, identity issues, grief/loss, feminist counseling and working with sexual minorities, children and adolescents
+
 ## Professional Graduate Work Experience
 
-#### CEDAR Clinic Supervisor: The Pennsylvania State University, 2013-Present)
+#### CEDAR Clinic Supervisor: The Pennsylvania State University, (2013-Present)
 Oversees operations of clinic, including: receptionist staff, incoming referrals, counselor documentation, and supervises all clinic training facilities. Responsible for training new staff and incoming counselors and supervisors.
 
 #### Program Recruitment and Retention: Roosevelt University,  (2011-2012)
@@ -47,6 +50,45 @@ materials. Became well-versed in accreditation procedure and standard requiremen
 
 #### Research and Teaching Assistant: Roosevelt University (2010-2011)
 Assisted Dr. Ozgur Oranghazi in research literature reviews, created digital archive of research, assisted in preparing tenure dossier, prepared classroom materials and graded assignments.
+
+##  Clinical Experience
+
+#### Doctoral Clinical Supervisor
+The Pennsylvania State University (2014-Present)
+
+_Provides master’s level practicum counselors with weekly individual clinical and administrative supervision for a caseload of 10 clients. Reviews session tapes and clinical documentation._
+
+
+#### Doctoral Internship
+The Cedar Clinic, The Pennsylvania State University, University Park, Pennsylvania (2014)
+
+_Provided individual and group counseling, facilitated outreach services for County Youth Services Bureau_
+
+#### Mental Health Counselor
+Hands Together Heart to Art, Roosevelt University, Chicago, IL
+
+_Provided bereavement/grief group counseling to children and adolescents at therapeutic day camp_
+
+#### Doctoral Career Counseling Practicum
+Bank of America Career Center, The Pennsylvania State University, University Park, Pennsylvania (2014)
+
+_Provided individual career counseling to undergraduate and graduate students_
+
+#### Doctoral Clinical Counseling Practicum
+The Cedar Clinic, The Pennsylvania State University, University Park, Pennsylvania (2013)
+
+_Provided individual counseling to undergraduate students_
+
+#### Counseling Internship
+Saints Mary and Elizabeth Outpatient Community Behavioral Health Clinic, Chicago, Illinois (2012-2013)
+
+_Provided individual, group counseling, and case management services_
+
+_Groups Facilitated:_
+
+- _Busy Buddies (ADHD/Behavioral group for 3-6 year olds)_
+- _ADHD/Behavioral group for 8-10 year olds_
+- _Adult Rehabilitation Day Program_
 
 
 ## Professional Work Experience
@@ -79,40 +121,6 @@ Roosevelt University, Department of Social Justice
 _Transformational service learning course-Facilitated mentorship experience for students and teenagers living residential behavioral housing facilities._
 
 
-## Supervised Clinical Experience
-
-#### Doctoral Clinical Supervisor
-The Pennsylvania State University (2014-Present)
-
-_Provides master’s level practicum counselors with weekly individual clinical and administrative supervision for a caseload of 10 clients. Reviews session tapes and clinical documentation._
-
-
-#### Doctoral Clinical Internship
-The Cedar Clinic, The Pennsylvania State University, University Park, Pennsylvania (2014)
-
-_Provided individual and group counseling, facilitated outreach services for County Youth Services Bureau_
-
-#### Doctoral Career Counseling Practicum
-Bank of America Career Center, The Pennsylvania State University, University Park, Pennsylvania (2014)
-
-_Provided individual career counseling to undergraduate and graduate students_
-
-#### Doctoral Clinical Counseling Practicum
-The Cedar Clinic, The Pennsylvania State University, University Park, Pennsylvania (2013)
-
-_Provided individual counseling to undergraduate students_
-
-#### Counseling Internship
-Saints Mary and Elizabeth Outpatient Community Behavioral Health Clinic, Chicago, Illinois (2012-2013)
-
-_Provided individual, group counseling, and case management services_
-
-_Groups Facilitated:_
-
-- _Busy Buddies (ADHD/Behavioral group for 3-6 year olds)_
-- _ADHD/Behavioral group for 8-10 year olds_
-- _Adult Rehabilitation Day Program_
-
 ## Manuscripts Currently Under Review
 Benoist, L. N. (2015). _A Critical Engagement: Mainstreaming Intersectionality in Multicultural Counseling._
 Submitted to: Journal of Multicultural Counseling and Development.
@@ -132,8 +140,12 @@ Benoist, L. N. (2008). Keeping Punishment Just: Examining Alternatives to Correc
 
 #### International
 
+Benoist, L. N. (2015). _Navigating Intercultural Conflict in Counsellor Education._
+International Association for Counselling Annual Conference, Verona, Italy.
+
 Benoist, L. N., Chang, H. (2014). _Intersections in Identity: Counseling practices that address the postmodern shift in identity development_ – Breakout Session
 Canadian Counselling Association Annual Research Conference, Moncton, NB
+
 
 #### National
 
@@ -162,10 +174,10 @@ Benoist, L. N. (2015). _Creating a Collaborative Counselor Education Training Cl
 Benoist, L. N. (2015). _A Primer On the Use of Intersectionality In Multicultural Counselor Education._
 Breakout session submitted to: Association for Counselor Education and Supervision Conference (ACES) 2015.
 
-Benoist, L. N. (2015). _Navigating Intercultural Conflict in Counsellor Education._
-Breakout session submitted to: International Association for Counselling. (IAC) 2015.
 
-## Non-Refereed Presentations
+## Speaking Invitations and Non-Refereed Presentations
+
+Benoist, L. N. (2015). Invited Speaker for Statewide Chi Sigma Iota Conference. _Infusing Intersectionality in Multicultural Counselor Education_ State College, Pennsylvania.
 
 Benoist, L. N. (2013). Invited Speaker for Northside Literacy Coalition meeting: _Advocating and communicating with/for clients with disabilities._ Chicago, Illinois.
 
