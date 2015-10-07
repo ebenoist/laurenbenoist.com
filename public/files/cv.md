@@ -14,14 +14,14 @@ Lauren N. Benoist, M.A., NCC, LPC
   225 CEDAR Building <br>
   University Park, PA 16802 <br>
   [Lbenoist@psu.edu](mailto:lbenoist@psu.edu) <br>
-  (814) 863-2418
 </address>
+
 
 ## Education
 
 #### Ph.D. Counselor Education and Supervision
 The Pennsylvania State University
-Department of Educational Psychology, Counseling, and Special Education (Projected graduation date: Spring 2016)
+Department of Educational Psychology, Counseling, and Special Education (Projected graduation date: Summer 2016)
 
 #### M.A. Clinical Mental Health Counseling (CACREP)
 Roosevelt University-Chicago, Illinois
@@ -34,11 +34,11 @@ Appalachian State University-Boone, North Carolina (2009)
 clinical training, multicultural counseling, intercultural conflict, counselor education, intersectionality, qualitative research
 
 #### Clinical Expertise
-interpersonal conflict, narrative and constructivist approaches, identity issues, grief/loss, feminist counseling and working with sexual minorities, children and adolescents
+children and adolescents, restorative practices, narrative and constructivist approaches, identity development, grief/loss
 
 ## Professional Graduate Work Experience
 
-#### CEDAR Clinic Supervisor: The Pennsylvania State University, (2013-Present)
+#### CEDAR Clinic Supervisor: The Pennsylvania State University, (2013-2015)
 Oversees operations of clinic, including: receptionist staff, incoming referrals, counselor documentation, and supervises all clinic training facilities. Responsible for training new staff and incoming counselors and supervisors.
 
 #### Program Recruitment and Retention: Roosevelt University,  (2011-2012)
@@ -53,8 +53,14 @@ Assisted Dr. Ozgur Oranghazi in research literature reviews, created digital arc
 
 ##  Clinical Experience
 
+#### Restorative Practices Coach
+WES Health Systems (2015-Present)
+
+_Provides consultation, coaching & technical support around implementation of school-based restorative programs and practices; Oversees training and consultation to promote the inclusion of underserved communities and ensure culturally appropriate services._
+
+
 #### Doctoral Clinical Supervisor
-The Pennsylvania State University (2014-Present)
+The Pennsylvania State University (2014-2015)
 
 _Provides master’s level practicum counselors with weekly individual clinical and administrative supervision for a caseload of 10 clients. Reviews session tapes and clinical documentation._
 
@@ -62,22 +68,22 @@ _Provides master’s level practicum counselors with weekly individual clinical 
 #### Doctoral Internship
 The Cedar Clinic, The Pennsylvania State University, University Park, Pennsylvania (2014)
 
-_Provided individual and group counseling, facilitated outreach services for County Youth Services Bureau_
+_Provided individual and group counseling, facilitated outreach services for County Youth Services Bureau._
 
 #### Mental Health Counselor
-Hands Together Heart to Art, Roosevelt University, Chicago, IL
+Hands Together Heart to Art, Roosevelt University, Chicago, IL (Summer 2014)
 
-_Provided bereavement/grief group counseling to children and adolescents at therapeutic day camp_
+_Provided bereavement/grief group counseling to children and adolescents at therapeutic day camp._
 
 #### Doctoral Career Counseling Practicum
 Bank of America Career Center, The Pennsylvania State University, University Park, Pennsylvania (2014)
 
-_Provided individual career counseling to undergraduate and graduate students_
+_Provided individual career counseling to undergraduate and graduate students._
 
 #### Doctoral Clinical Counseling Practicum
 The Cedar Clinic, The Pennsylvania State University, University Park, Pennsylvania (2013)
 
-_Provided individual counseling to undergraduate students_
+_Provided individual counseling to undergraduate students._
 
 #### Counseling Internship
 Saints Mary and Elizabeth Outpatient Community Behavioral Health Clinic, Chicago, Illinois (2012-2013)
@@ -91,12 +97,10 @@ _Groups Facilitated:_
 - _Adult Rehabilitation Day Program_
 
 
-## Professional Work Experience
-
-#### Pre-school Teacher - American Kidz Academy
-Upheld state standards for teaching, created lesson plans and student evaluations in preparation for grade school.
-
 ## Teaching Experience
+
+#### Pre-Practicum Skills I
+Roosevelt University, Chicago Il
 
 #### Clinical Mental Health in Schools and Communities
 
@@ -120,10 +124,11 @@ Roosevelt University, Department of Social Justice
 
 _Transformational service learning course-Facilitated mentorship experience for students and teenagers living residential behavioral housing facilities._
 
+## Related Work Experience
 
-## Manuscripts Currently Under Review
-Benoist, L. N. (2015). _A Critical Engagement: Mainstreaming Intersectionality in Multicultural Counseling._
-Submitted to: Journal of Multicultural Counseling and Development.
+#### Pre-school Teacher - American Kidz Academy
+Upheld state standards for teaching, created lesson plans and student evaluations in preparation for grade school.
+
 
 ## Non-Refereed Publications
 
@@ -149,10 +154,17 @@ Canadian Counselling Association Annual Research Conference, Moncton, NB
 
 #### National
 
-Benoist, L. N. (2014). _Intersectionality: Models of Identity Development and Implications for Practice, Curriculum, and Instruction_ - Roundtable Discussion
-Association for Lesbian, Gay, Bisexual and Transgender Issues in Counseling National Conference, New Orleans, Louisiana
+Benoist, L. N. (2015). _A Primer on the Use of Intersectionaltiy in Multicultural Counselor Education._ - Education Session
+Association for Counselor Education and Supervision (ACES), Philadelphia, PA
 
-Benoist, L. N. (2008). _Dare to Keep Punishment Just: Alternatives to Corrections for Drug Addicted Offenders_ – Poster Presentation American Correctional Association Annual Conference, New Orleans, LA
+Benoist, L. N. (2015). _Creating a Collaborative Counselor Education Training Clinic: The Real World Model._ - Education Session
+Association for Counselor Education and Supervision (ACES), Philadelphia, PA
+
+Benoist, L. N. (2014). _Intersectionality: Models of Identity Development and Implications for Practice, Curriculum, and Instruction._ - Roundtable Discussion
+Association for Lesbian, Gay, Bisexual and Transgender Issues in Counseling (ALGBTIC) National Conference, New Orleans, Louisiana
+
+Benoist, L. N. (2008). _Dare to Keep Punishment Just: Alternatives to Corrections for Drug Addicted Offenders._ – Poster Presentation
+American Correctional Association Annual Conference, New Orleans, LA
 
 #### State
 
@@ -181,12 +193,11 @@ Benoist, L. N. (2015). Invited Speaker for Statewide Chi Sigma Iota Conference. 
 
 Benoist, L. N. (2013). Invited Speaker for Northside Literacy Coalition meeting: _Advocating and communicating with/for clients with disabilities._ Chicago, Illinois.
 
-Benoist, L. N. (2012). _Substance Dependence and Abuse Among the Elderly: Prevalence and current models of treatment_ – Poster Presentation at Roosevelt University, Chicago, Illinois
-
 ## Current Professional Memberships
 
 - American Counseling Association (ACA)
-- Internaional Association for Counselling (IAC)
+- Association for Counselor Education and Supervision (ACES)
+- International Association for Counselling (IAC)
 - Illinois Counseling Association (ICA)
 - Association for Lesbian, Gay, Bisexual, and Transgender issues in Counseling (IALGBTIC)
 - Chi Sigma Iota (CSI)
@@ -206,6 +217,6 @@ Benoist, L. N. (2012). _Substance Dependence and Abuse Among the Elderly: Preval
 ## Awards
 
 - 2013-2014 Penn State Graham Endowed Fellowship.
-- 2012 American Counseling Association Foundation: Gerald and Marianne Corey Graduate Student Essay Scholarship. $150.
+- 2012 American Counseling Association Foundation: Gerald and Marianne Corey Graduate Student Essay Scholarship.
 - 2008 American Correctional Association: 1st Place National Poster Presentation Competition.
 - 2008 Research at the Capitol meeting: Awarded with invitation to represent affiliated university for research: Alternatives to Corrections for Drug Addicted Offenders.
