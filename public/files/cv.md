@@ -20,6 +20,7 @@ The Pennsylvania State University
 #### M.A. Clinical Mental Health Counseling (CACREP)
 Roosevelt University
 
+
 #### B.S. Psychology
 Appalachian State University
 
@@ -34,7 +35,7 @@ interpersonal conflict, narrative and constructivist approaches, identity develo
 
 
 #### Mental Health Counselor
-Chicago Academy for the Arts
+Chicago Academy for the Arts - Since 2015
 
 _Provides individual school-based counseling to students and families, coordinates both referrals to in/
 outpatient services and reetnry from inpatient services._
@@ -55,7 +56,7 @@ The Pennsylvania State University
 _Provides master’s level practicum counselors with weekly individual clinical and administrative supervision for a caseload of 10 clients. Reviews session tapes and clinical documentation._
 
 
-#### Doctoral Internship
+#### Doctoral Intern
 The Cedar Clinic, The Pennsylvania State University, University Park, Pennsylvania
 
 _Provided individual and group counseling, facilitated outreach services for County Youth Services Bureau_
@@ -91,10 +92,10 @@ Pre-school Assistant Teacher - Jewish Community Center
 
 ## Teaching Experience
 
-####Adler University
+####Adler University - Courses Taught:
 _Professional Development Seminar_
 
-_Skills_
+_Counseling Skills_
 
 _Treatment Planning and Interventions_
 
@@ -102,9 +103,23 @@ _Research Methods and Program Evaluation_
 
 _Legal and Ethical Issues in Counseling_
 
+_Human Sexuality_ (Developed for program)
+
+_Foundations in Clinical Mental Health Counseling_
+
+_Diagnosis and Maladaptive Behavior_
+
+_Clinical Supervision_
+
+####School of the Art Institute of Chicago
+_Processing: Narrative Therapy and New Media_ (Developed cross-disciplinary undergraduate course)
+
+
 
 ####Roosevelt University
 _Introduction to Clinical Skills_
+
+_Interventions to youth violence_ (Transformational service learning course-facilitated mentorship experience for undergraduate students and teenagers living residential housing facilities)
 
 ####Pennsylvania State University
 _Clinical Mental Health Counseling in Schools and Communities_
@@ -113,10 +128,8 @@ _Elementary School Counseling Guest Lecturer_
 
 _Client Assessment in Rehabilitation and Human Servies Guest Lecturer_
 
-#### Interventions to Youth Violence (Co-taught)
-Roosevelt University, Department of Social Justice
 
-_Transformational service learning course-Facilitated mentorship experience for students and teenagers living residential behavioral housing facilities._
+
 
 
 ## Non-Refereed Publications
@@ -142,6 +155,7 @@ Canadian Counselling Association Annual Research Conference, Moncton, NB
 
 
 #### National
+Benoist, L. N. (2017). _Conflict Stories in Multicultural Counseling Classrooms: Results of a Narrative Analysis._ Association for Counselor Education and Supervision Conference (ACES) 2017.
 
 Benoist, L. N. & Hunt, B. H. (2015). _A Primer On the Use of Intersectionality In Multicultural Counselor Education._ Association for Counselor Education and Supervision Conference (ACES) 2015.
 
@@ -150,7 +164,7 @@ Benoist, L. N., Calandriello, K., Perez, J., & Kostohryz, K. (2015) _Creating a 
 Benoist, L. N. (2014). _Intersectionality: Models of Identity Development and Implications for Practice, Curriculum, and Instruction_ - Roundtable Discussion
 Association for Lesbian, Gay, Bisexual and Transgender Issues in Counseling National Conference (ALGBTIC), New Orleans, Louisiana
 
-Benoist, L. N. (2008). _Dare to Keep Punishment Just: Alternatives to Corrections for Drug Addicted Offenders_ – Poster Presentation American Correctional Association Annual Conference, New Orleans, LA
+Benoist, L. N. (2008). _Dare to Keep Punishment Just: Alternatives to Corrections for Drug Addicted Offenders_ – Poster Presentation American Correctional Association (ACA) Annual Conference, New Orleans, LA
 
 #### State
 
@@ -170,7 +184,8 @@ Breakout-Session- Appalachian State University Research Symposium. Boone, NC
 
 Kumble, S., Benoist, L.N., Perez, J., & Seo, Y. (2016) *Teen Suicide in the News: A Content Analysis of Responsible Reporting and Framing in the United States Newspapers*. Submitted to Association for Journalism and Mass Communication.
 
-Benoist, L. *Cultural Identity Development Practices: Adlerian Approaches to Constructivism and Intersectionality* Submitted to Special Issue of Journal of Individual Psychology.
+## Manuscripts in Process
+Benoist, L., & Perez, J. (TBD) _A Counselor Educator's Response to the MSJCC: An Exploration Teaching Recommendations_.
 
 
 ## Speaking Invitations and Non-Refereed Presentations
@@ -185,14 +200,14 @@ Benoist, L. N. (2013). Invited Speaker for Northside Literacy Coalition meeting:
 - American Counseling Association (ACA)
 - Assocation for Counselor Education and Supervision (ACES)
 - Illinois Counseling Association (ICA)
+- Illinois Counselor Educators and Supervisors (ICES)
 - Association for Lesbian, Gay, Bisexual, and Transgender issues in Counseling (IALGBTIC)
-- Chi Sigma Iota (CSI)
+
 
 ## Service to Profession
 
-- President/Founding member: Rho Chi Alpha Chapter of Chi Sigma Iota
-- CACREP Renewal Assistant
-- Roosevelt Counseling Association Newsletter Editor
+- Secretary of llinois Association for Assessment and Research in Counseling and Education (IAARC): Since 2016
+- President/Founding member: Rho Chi Alpha Chapter of Chi Sigma Iota at Roosevelt University
 - President of Roosevelt Counseling Association
 
 ## Certifications
